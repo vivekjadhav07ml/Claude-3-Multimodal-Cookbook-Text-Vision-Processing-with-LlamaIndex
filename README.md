@@ -45,5 +45,5 @@ This project is licensed under the **MIT License**.
 
 💡 **Contributions Welcome!** Feel free to open issues or submit pull requests to improve this project.
 
-🔗 **Follow me on [LinkedIn](https://www.linkedin.com/in/your-profile) for more AI projects!**
+🔗 **Follow me on [LinkedIn](https://https://www.linkedin.com/in/vivek-jadhav-17b408254/) for more AI projects!**
 
